@@ -6,7 +6,7 @@ This project can be used to create issues in Git & Bitbucket.
 Dependencies
 ============
 
-PHP > 5.4.0
+PHP > 5.4.0,
 PHP CURL Extension
 
 Requirements
