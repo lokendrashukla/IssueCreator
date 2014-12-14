@@ -17,11 +17,11 @@ An account on Github/Bitbucket.
 Installation
 ============
 
-Download the code from the GIT. Use:
-$ git clone https://github.com/lokendrashukla/IssueCreator.git <destination folder>
+Download the code(Zip file) from the file Link: https://github.com/lokendrashukla/issuecreator
+OR. Use:
+$ git clone https://github.com/lokendrashukla/issuecreator.git <destination folder>
 
-
-From the command line, run the following command
+Then, From the command line, run the following command
 
 $ cd <project_folder>
 
